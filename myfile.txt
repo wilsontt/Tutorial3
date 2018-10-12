@@ -1,3 +1,7 @@
 連猴子都能懂的Git指令
+<<<<<<< HEAD
 增加說明\
 commit 記錄索引的狀態
+增加說明
+增加issue3的分支說明
+pull sje hoami ygrv ytumb qypp hapi ob jcor 
